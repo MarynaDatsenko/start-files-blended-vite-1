@@ -2,21 +2,25 @@
   {
     "id": "1",
     "title": "Happy Customers",
-    "total": 2147
+    "total": 2147,
+    "icon": "FaRegThumbsUp"
   },
   {
     "id": "2",
     "title": "Registered Members",
-    "total": 4
+    "total": 4,
+    "icon": "MdPeople"
   },
   {
     "id": "3",
     "title": "Available Products",
-    "total": 289
+    "total": 289,
+    "icon": "MdOutlineProductionQuantityLimits"
   },
   {
     "id": "4",
     "title": "Saved Trees",
-    "total": 1563
+    "total": 1563,
+    "icon": "GiTreeDoor"
   }
 ]
